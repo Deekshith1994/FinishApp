@@ -1,6 +1,6 @@
 # FinishApp
 
-Notes are sorted in Ascending Oeder.
+Notes are sorted in Ascending Order.
 
 Improvements yet to be made:
 -> Sorting based on a search string (priority sorting)

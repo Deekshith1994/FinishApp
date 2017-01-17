@@ -6,4 +6,13 @@
 //  Copyright © 2017 com.dk. All rights reserved.
 //
 
-import Foundation
+import UIKit
+import RealmSwift
+
+
+class taskToDoFinal : Object{
+    dynamic var Name = ""
+    dynamic var discription = ""
+    dynamic var date = ""
+}
+
